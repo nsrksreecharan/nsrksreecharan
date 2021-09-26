@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @nsrksreecharan
-- 👀 I’m interested in myself 
-- 🌱 I’m currently learning to learn 
 - 📫 How to reach me: mail me nsrksreecharan104@gmail.com 
 
 U can reach to my websites&projects through this links:
