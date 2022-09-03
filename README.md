@@ -1,4 +1,4 @@
-<p align="center"><img src="https://ik.imagekit.io/otrrchrtq/Untitled_design_vTLfNJPUt.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1662181789221" width="200px"/><img  src="https://ik.imagekit.io/otrrchrtq/N_S_R_K_Sree_charan__2__0PtBH38d1.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1662181558808"/><img src="https://ik.imagekit.io/otrrchrtq/Untitled_design_vTLfNJPUt.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1662181789221"  width="200px"/></p>
+<p align="center"><img src="https://ik.imagekit.io/otrrchrtq/Untitled_design_vTLfNJPUt.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1662181789221" width="150px"/><img  src="https://ik.imagekit.io/otrrchrtq/N_S_R_K_Sree_charan__2__0PtBH38d1.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1662181558808"/><img src="https://ik.imagekit.io/otrrchrtq/Untitled_design_vTLfNJPUt.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1662181789221"  width="150px"/></p>
 <h1 align="center">Hi 👋, I'm N S R K Sree Charan</h1>
 <h3 align="center">I'm a web developer and deeply interested in learning new things.</h3>
 
