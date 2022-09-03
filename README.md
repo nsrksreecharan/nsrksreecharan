@@ -1,9 +1,13 @@
 <hr/>
 <p align="center"><img src="https://ik.imagekit.io/otrrchrtq/Untitled_design_vTLfNJPUt.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1662181789221" width="20%"/><img  src="https://ik.imagekit.io/otrrchrtq/N_S_R_K_Sree_charan__2__0PtBH38d1.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1662181558808" width="60%"/><img src="https://ik.imagekit.io/otrrchrtq/Untitled_design_vTLfNJPUt.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1662181789221"  width="20%"/></p>
 <hr/>
+<br/>
+<br/>
 <h2 align="center">Hi 👋, I'm N S R K Sree Charan</h2>
 <h3 align="center">I'm a web developer and deeply interested in learning new things.</h3>
 
+
+<ul>
 
 - 🌱 I’m currently learning **MERN stack**
 
@@ -14,7 +18,7 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1o6cpkxcBq2nOv_lISWxDeqQ5s8eLwtc5k-NT-O9Cbck/edit?usp=sharing](https://docs.google.com/document/d/1o6cpkxcBq2nOv_lISWxDeqQ5s8eLwtc5k-NT-O9Cbck/edit?usp=sharing)
 
 - ⚡ Fun fact **I'm also good with pencil arts**
-
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nsrksreecharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nsrksreecharan" height="30" width="40" /></a>
