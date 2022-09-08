@@ -5,7 +5,7 @@
 <br/>
 <div>
   
-<img align="right" src="https://res.cloudinary.com/dub9ymu0j/image/upload/v1662655701/robot-removebg-preview_iwdpoh.png" width="40%" />
+<img align="right" src="https://res.cloudinary.com/dub9ymu0j/image/upload/v1662655701/robot-removebg-preview_iwdpoh.png" width="50%" />
 <div align="left" >
 <h2 align="center">Hi 👋, I'm N S R K Sree Charan</h2>
 <h3 align="center">I'm a web developer and deeply interested in learning new things.</h3>
