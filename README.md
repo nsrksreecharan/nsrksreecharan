@@ -1,6 +1,6 @@
-<hr/>
-<p align="center"><img src="https://ik.imagekit.io/otrrchrtq/Untitled_design_vTLfNJPUt.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1662181789221" width="20%"/><img  src="https://ik.imagekit.io/otrrchrtq/N_S_R_K_Sree_charan__2__0PtBH38d1.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1662181558808" width="60%"/><img src="https://ik.imagekit.io/otrrchrtq/Untitled_design_vTLfNJPUt.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1662181789221"  width="20%"/></p>
-<hr/>
+
+<p align="center"><img  src="https://ik.imagekit.io/otrrchrtq/N_S_R_K_Sree_charan_qXO2fDW3G.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1662179806034" width="60%"/><img align="right" src="https://res.cloudinary.com/dub9ymu0j/image/upload/v1662655701/robot-removebg-preview_iwdpoh.png"  width="40%"/></p>
+
 <br/>
 <br/>
 <h2 align="center">Hi 👋, I'm N S R K Sree Charan</h2>
