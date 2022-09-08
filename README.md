@@ -5,23 +5,24 @@
 <br/>
 <div>
   
-<img align="right" src="https://res.cloudinary.com/dub9ymu0j/image/upload/v1662655701/robot-removebg-preview_iwdpoh.png" width="50%" />
-<div align="left" >
+
 <h2 align="center">Hi 👋, I'm N S R K Sree Charan</h2>
 <h3 align="center">I'm a web developer and deeply interested in learning new things.</h3>
+<div>
+  <p>🌱 I’m currently learning <strong>MERN stack</strong></p>
+</div>
+  <img align="right" src="https://res.cloudinary.com/dub9ymu0j/image/upload/v1662655701/robot-removebg-preview_iwdpoh.png" width="50%" />
 <ul>
-- 🌱 I’m currently learning **MERN stack**
-
+  
+  
 - 👨‍💻 All of my projects are available at my linkedin profile [https://www.linkedin.com/in/nsrksreecharan/](https://www.linkedin.com/in/nsrksreecharan/)
 
-- 📫 How to reach me **nsrksreecharan104@gmail.com**
+- 📫 How to reach me <strong>nsrksreecharan104@gmail.com</strong>
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1o6cpkxcBq2nOv_lISWxDeqQ5s8eLwtc5k-NT-O9Cbck/edit?usp=sharing](https://docs.google.com/document/d/1o6cpkxcBq2nOv_lISWxDeqQ5s8eLwtc5k-NT-O9Cbck/edit?usp=sharing)
 
-- ⚡ Fun fact **I'm also good with pencil arts**
-</ul>
-</div>
-</div>
+- ⚡ Fun fact <strong>I'm also good with pencil arts</strong>
+  </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nsrksreecharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nsrksreecharan" height="30" width="40" /></a>
