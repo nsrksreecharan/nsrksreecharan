@@ -1,9 +1,11 @@
 
 <div align="center"><img  src="https://ik.imagekit.io/otrrchrtq/N_S_R_K_Sree_charan_qXO2fDW3G.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1662179806034" width="500px" /></div>
-<img align="right" src="https://res.cloudinary.com/dub9ymu0j/image/upload/v1662655701/robot-removebg-preview_iwdpoh.png"  />
+
 
 <br/>
-<br/>
+<div>
+<img align="right" src="https://res.cloudinary.com/dub9ymu0j/image/upload/v1662655701/robot-removebg-preview_iwdpoh.png"  />
+<div align="left">
 <h2 align="center">Hi 👋, I'm N S R K Sree Charan</h2>
 <h3 align="center">I'm a web developer and deeply interested in learning new things.</h3>
 
@@ -20,6 +22,8 @@
 
 - ⚡ Fun fact **I'm also good with pencil arts**
 </ul>
+</div>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nsrksreecharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nsrksreecharan" height="30" width="40" /></a>
