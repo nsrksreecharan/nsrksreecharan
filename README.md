@@ -4,8 +4,9 @@
 
 <br/>
 <div>
-<img align="right" src="https://res.cloudinary.com/dub9ymu0j/image/upload/v1662655701/robot-removebg-preview_iwdpoh.png"  />
-<div align="left">
+  
+<img align="right" src="https://res.cloudinary.com/dub9ymu0j/image/upload/v1662655701/robot-removebg-preview_iwdpoh.png" width="40%" />
+<div align="left" width="60%">
 <h2 align="center">Hi 👋, I'm N S R K Sree Charan</h2>
 <h3 align="center">I'm a web developer and deeply interested in learning new things.</h3>
 
