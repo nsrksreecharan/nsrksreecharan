@@ -9,10 +9,7 @@
 <div align="left" width="60%">
 <h2 align="center">Hi 👋, I'm N S R K Sree Charan</h2>
 <h3 align="center">I'm a web developer and deeply interested in learning new things.</h3>
-
-
 <ul>
-
 - 🌱 I’m currently learning **MERN stack**
 
 - 👨‍💻 All of my projects are available at my linkedin profile [https://www.linkedin.com/in/nsrksreecharan/](https://www.linkedin.com/in/nsrksreecharan/)
