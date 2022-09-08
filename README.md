@@ -1,5 +1,6 @@
 
-<p align="center"><img  src="https://ik.imagekit.io/otrrchrtq/N_S_R_K_Sree_charan_qXO2fDW3G.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1662179806034" width="60%"/><img align="right" src="https://res.cloudinary.com/dub9ymu0j/image/upload/v1662655701/robot-removebg-preview_iwdpoh.png"  width="40%"/></p>
+<div align="center"><img  src="https://ik.imagekit.io/otrrchrtq/N_S_R_K_Sree_charan_qXO2fDW3G.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1662179806034" width="500px" height="500px" /></div>
+<img align="right" src="https://res.cloudinary.com/dub9ymu0j/image/upload/v1662655701/robot-removebg-preview_iwdpoh.png"  />
 
 <br/>
 <br/>
