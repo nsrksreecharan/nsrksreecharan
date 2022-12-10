@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1o6cpkxcBq2nOv_lISWxDeqQ5s8eLwtc5k-NT-O9Cbck/edit?usp=sharing](https://docs.google.com/document/d/1o6cpkxcBq2nOv_lISWxDeqQ5s8eLwtc5k-NT-O9Cbck/edit?usp=sharing)
 
-- ⚡ Fun fact <strong>I'm also good with pencil arts</strong>
+</strong>
   </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
