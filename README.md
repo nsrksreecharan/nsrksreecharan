@@ -19,7 +19,7 @@
 
 - 📫 How to reach me <strong>nsrksreecharan104@gmail.com</strong>
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1o6cpkxcBq2nOv_lISWxDeqQ5s8eLwtc5k-NT-O9Cbck/edit?usp=sharing](https://docs.google.com/document/d/1o6cpkxcBq2nOv_lISWxDeqQ5s8eLwtc5k-NT-O9Cbck/edit?usp=sharing)
+- 📄 Know about my experiences [[https://docs.google.com/document/d/1o6cpkxcBq2nOv_lISWxDeqQ5s8eLwtc5k-NT-O9Cbck/edit?usp=sharing](https://docs.google.com/document/d/1o6cpkxcBq2nOv_lISWxDeqQ5s8eLwtc5k-NT-O9Cbck/edit?usp=sharing)](https://docs.google.com/document/d/11FwphnzOsmRwis8fTmtoDroFHl8l2V4W/edit?usp=sharing&ouid=103841254493998090371&rtpof=true&sd=true)
 
 </strong>
   </ul>
