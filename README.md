@@ -9,7 +9,7 @@
 #### <h2 align="center">Hi 👋, I'm N S R K Sree Charan</h2>
 <h3 align="center">I'm a web developer and deeply interested in learning new things.</h3>
 <div>
-  <p>🌱 I’m currently learning <strong>MERN stack</strong></p>
+  <p>🌱Currently I’m working as  <strong>Software Development Enigneer</strong> 1 at Lotus Wireless Technologies</p>
 </div>
   <img align="right" src="https://res.cloudinary.com/dub9ymu0j/image/upload/v1662655701/robot-removebg-preview_iwdpoh.png" width="50%" />
 <ul>
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me <strong>nsrksreecharan104@gmail.com</strong>
 
-- 📄 Know about my experiences https://docs.google.com/document/d/11FwphnzOsmRwis8fTmtoDroFHl8l2V4W/edit?usp=sharing&ouid=103841254493998090371&rtpof=true&sd=true
+- 📄 Know about my experiences in my [Resume](https://docs.google.com/document/d/11FwphnzOsmRwis8fTmtoDroFHl8l2V4W/edit?usp=sharing&ouid=103841254493998090371&rtpof=true&sd=true)
 
 </strong>
   </ul>
