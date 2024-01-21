@@ -15,11 +15,11 @@
 <ul>
   
   
-- 👨‍💻 All of my projects are available at my linkedin profile [https://www.linkedin.com/in/nsrksreecharan/](https://www.linkedin.com/in/nsrksreecharan/)
+- 👨‍💻 All of my projects are available at my [LinkedIn](https://www.linkedin.com/in/nsrksreecharan/)
 
-- 📫 How to reach me <strong>nsrksreecharan104@gmail.com</strong>
+- 📫 You can reach me through [Email](https://mail.google.com/mail/u/0/#sent?compose=GTvVlcSDXXwGNTpzWMhqzztPMkpMDfkdvpwQDjWzqBJMcDTFkjJmKRnzPbbQTxXntVBzZQJxJDvbd)
 
-- 📄 Know about my experiences in my [Resume](https://docs.google.com/document/d/11FwphnzOsmRwis8fTmtoDroFHl8l2V4W/edit?usp=sharing&ouid=103841254493998090371&rtpof=true&sd=true)
+- 📄 To know more about my experiences here is my [Resume](https://docs.google.com/document/d/11FwphnzOsmRwis8fTmtoDroFHl8l2V4W/edit?usp=sharing&ouid=103841254493998090371&rtpof=true&sd=true)
 
 </strong>
   </ul>
