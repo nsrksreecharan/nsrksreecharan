@@ -10,7 +10,7 @@
 ---
 
 🌱 **Currently:**  
-Working as a **Software Development Engineer 1** at Kitaabh Technologies Pvt Ltd.
+Working as a **Software Development Engineer 1** at Kitaabh Technologies Pvt Ltd From **Feb 2023**.
 <div style="display: flex; flex-wrap: nowrap; align-items: center; justify-content: space-between; gap: 20px; width: 100%;">
   <!-- Left Content Section -->
   <div style="flex: 1; max-width: 60%;">
