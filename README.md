@@ -3,19 +3,19 @@
 </div>
 
 ---
-
-<h2 align="center">Hi 👋, I'm N S R K Sree Charan</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=0&color=FFFFFF&vCenter=true&width=600&lines=Hi+👋,+I'm+N+S+R+K+Sree+Charan" alt="Typing Animation" />
+</div>
 <h3 align="center">A passionate Web Developer exploring and learning new things every day!</h3>
-
 ---
 
 🌱 **Currently:**  
 Working as a **Software Development Engineer 1** at Lotus Wireless Technologies.
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; gap: 20px;">
+<div style="display: flex; flex-wrap: nowrap; align-items: center; justify-content: space-between; gap: 20px; width: 100%;">
   <!-- Left Content Section -->
   <div style="flex: 1; max-width: 60%;">
     <h3>About Me:</h3>
-    <ul style="list-style-type: none; padding: 0;">
+    <ul style="list-style-type: none; padding: 0; margin: 0;">
       <li>👨‍💻 Explore my work on <a href="https://www.linkedin.com/in/nsrksreecharan/" target="_blank" style="text-decoration: none; color: #0077b5;">LinkedIn</a>.</li>
       <li>📫 Reach out via <a href="https://mail.google.com/mail/u/0/#sent?compose=GTvVlcSDXXwGNTpzWMhqzztPMkpMDfkdvpwQDjWzqBJMcDTFkjJmKRnzPbbQTxXntVBzZQJxJDvbd" target="_blank" style="text-decoration: none; color: #d93025;">Email</a>.</li>
       <li>📄 View my <a href="https://docs.google.com/document/d/11FwphnzOsmRwis8fTmtoDroFHl8l2V4W/edit?usp=sharing&ouid=103841254493998090371&rtpof=true&sd=true" target="_blank" style="text-decoration: none; color: #0a66c2;">Resume</a> for more details on my experience.</li>
@@ -23,8 +23,8 @@ Working as a **Software Development Engineer 1** at Lotus Wireless Technologies.
   </div>
 
   <!-- Right Image Section -->
-  <div style="flex: 1; text-align: right;">
-    <img src="https://res.cloudinary.com/dub9ymu0j/image/upload/v1662655701/robot-removebg-preview_iwdpoh.png" alt="Illustration" style="max-width: 100%; height: auto; width: 300px;" />
+  <div style="display: block;">
+    <img align="right" src="https://res.cloudinary.com/dub9ymu0j/image/upload/v1662655701/robot-removebg-preview_iwdpoh.png" alt="Illustration" style="max-width: 300px; height: auto;" />
   </div>
 </div>
 
@@ -79,7 +79,7 @@ Working as a **Software Development Engineer 1** at Lotus Wireless Technologies.
 ---
 
 ### 📊 GitHub Stats:
-<div align="center">
+<div align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nsrksreecharan&show_icons=true&theme=dracula" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nsrksreecharan&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
 </div>
