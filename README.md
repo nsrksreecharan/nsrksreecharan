@@ -4,7 +4,7 @@
 
 ---
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=0&color=FFFFFF&vCenter=true&width=600&lines=Hi+👋,+I'm+N+S+R+K+Sree+Charan" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=0&color=00A2FF&background=FFFFFF00&vCenter=true&width=600&lines=Hi+👋,+I'm+N+S+R+K+Sree+Charan" alt="Typing Animation" />
 </div>
 <h3 align="center">A passionate Web Developer exploring and learning new things every day!</h3>
 ---
